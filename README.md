@@ -1,1 +1,3 @@
 # Aahara
+Aahara is a health-focused meal planning and food delivery platform that provides personalized weekly diet charts based on specific health conditions and nutritional requirements. Users can order freshly prepared, diet-friendly meals directly from our cloud kitchen, ensuring convenience and quality. The meals are carefully curated using traditional Indian recipes, emphasizing natural ingredients and holistic well-being.
+With Aahara, users not only receive expert-recommended diet plans but can also have their meals customized and delivered, making healthy eating effortless and accessible.
